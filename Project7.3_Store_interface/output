@@ -1,0 +1,17 @@
+// INPUT: 10 , S , 5 , 12
+//10 drinks,type==soda, 5 sandwiches ,size of sandwiches==12
+/*______________________Output______________________
+-----------------7-11 convenient Store-----------------
+Drinks
+ Soda(S).......................................$2.25
+ Water(W)......................................$1.75
+Sandwiches
+ 10 inches.....................................$3.45
+ 12 inches.....................................$5.25
+How many drinks? 10
+        What kind of drink(S=Soda, W=Water)? S
+How many Sandwiches? 5
+        What size of sandwich(10/12 inches)? 12
+Your total bill = 48.75
+Press any key to continue . . .
+_____________________________________________________*/
